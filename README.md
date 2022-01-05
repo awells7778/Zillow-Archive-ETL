@@ -1,2 +1,2 @@
-# Zillow-Archive-ETL
-Simple ETL project using Python, SQL, AWS S3, AWS Redshift
+# home-etl
+Small scale personal ETL project using Airflow, Python, AWS S3, &amp; AWS Redshift
